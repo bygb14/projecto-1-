@@ -1,0 +1,75 @@
+@import url("https://fonts.googleapis.com/css2?family=Special+Gothic+Expanded+One&display=swap");
+
+* {
+  background-color: #d9d9d9;
+}
+
+.nav {
+  margin: 2%;
+  padding: 2%;
+  border: 2px black solid;
+  border-radius: 15px;
+  display: flex;
+  justify-content: space-between;
+  position: fixed;
+  left: 75%;
+  background-color: white;
+  font-size: 15px;
+  font-family: Arial, Helvetica, sans-serif;
+  z-index: 5;
+}
+.nav_img {
+  width: 75px;
+  height: 75px;
+}
+.nav_links {
+  padding: 1%;
+  border: 2px black solid;
+  border-radius: 15px;
+  background-color: ;
+  background-color: rgb(165, 157, 157);
+}
+#header {
+  background-color: rgb(192, 192, 192);
+  border: 2px black solid;
+  border-radius: 15px;
+  padding: 1%;
+  font-family: "Special Gothic Expanded One", sans-serif;
+  font-size: 25px;
+}
+
+#main {
+  background-color: rgb(192, 192, 192);
+  border: 2px black solid;
+  border-radius: 15px;
+  padding: 1%;
+  font-family: "Special Gothic Expanded One", sans-serif;
+  font-size: 25px;
+}
+
+.main_info {
+  background-color: rgb(192, 192, 192);
+  border: 2px black solid;
+  border-radius: 15px;
+  padding: 1%;
+  font-family: "Special Gothic Expanded One", sans-serif;
+  font-size: 25px;
+}
+.main__print_info {
+  background-color: rgb(192, 192, 192);
+  border: 2px black solid;
+  padding: 1%;
+  font-size: 15px;
+}
+.main__variables_info {
+  background-color: rgb(192, 192, 192);
+  border: 2px black solid;
+  padding: 1%;
+  font-size: 15px;
+}
+.main__conditional_info {
+  background-color: rgb(192, 192, 192);
+  border: 2px black solid;
+  padding: 1%;
+  font-size: 15px;
+}
